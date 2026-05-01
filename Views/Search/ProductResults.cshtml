@@ -1,0 +1,47 @@
+﻿@model IEnumerable<TrueNetFinalProject.Models.Product>
+
+@{
+    ViewData["Title"] = "Product Search Results";
+}
+
+<h1>Results for: @ViewData["SelectedCategory"]</h1>
+
+<p>
+    <a asp-controller="product" asp-action="Create" class="btn btn-primary">Create New Product</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.productName)</th>
+            <th>@Html.DisplayNameFor(model => model.location)</th>
+            <th>@Html.DisplayNameFor(model => model.stock)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr>
+                <td colspan="4" class="text-center text-muted">No products found matching your search.</td>
+            </tr>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.productName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.location)</td>
+                    <td>@Html.DisplayFor(modelItem => item.stock)</td>
+                    <td>
+                        <a asp-controller="product" asp-action="Edit" asp-route-id="@item.productId">Edit</a> |
+                        <a asp-controller="product" asp-action="Details" asp-route-id="@item.productId">Details</a> |
+                        <a asp-controller="product" asp-action="Delete" asp-route-id="@item.productId">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

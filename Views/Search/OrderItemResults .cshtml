@@ -1,0 +1,50 @@
+﻿@model IEnumerable<TrueNetFinalProject.Models.OrderItem>
+
+@{
+    ViewData["Title"] = "Order Item Search Results";
+}
+
+<h1>Results for: @ViewData["SelectedCategory"]</h1>
+
+<p>
+    <a asp-controller="product" asp-action="Create" class="btn btn-primary">Create New Order Item</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.orderItemId)</th>
+            <th>@Html.DisplayNameFor(model => model.orderId)</th>
+            <th>@Html.DisplayNameFor(model => model.quantity)</th>
+            <th>@Html.DisplayNameFor(model => model.productId)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr>
+                <td colspan="4" class="text-center text-muted">No products found matching your search.</td>
+            </tr>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.orderItemId)</td>
+                    <td>@Html.DisplayFor(modelItem => item.orderId)</td>
+                    <td>@Html.DisplayFor(modelItem => item.quantity)</td>
+                    <td>@Html.DisplayFor(modelItem => item.productId)</td>
+                    <td>
+                        <a asp-controller="orderitem" asp-action="Edit" asp-route-id="@item.orderItemId">Edit</a> |
+                        <a asp-controller="orderitem" asp-action="Details" asp-route-id="@item.orderItemId">Details</a> |
+                        <a asp-controller="orderitem" asp-action="Delete" asp-route-id="@item.orderItemId">Delete</a>
+                        <a asp-controller="product" asp-action="Index" asp-route-id="@item.productId">View Orders</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

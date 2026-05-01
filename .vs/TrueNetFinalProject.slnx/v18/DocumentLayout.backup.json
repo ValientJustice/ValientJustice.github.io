@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\views\\search\\orderitemresults .cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:views\\search\\orderitemresults .cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\views\\search\\orderresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:views\\search\\orderresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\views\\search\\productresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:views\\search\\productresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|c:\\users\\majorbones\\onedrive\\desktop\\truenetfinalproject\\views\\orderitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{327DAD42-0739-CC9E-E589-87AC69DD756F}|TrueNetFinalProject.csproj|solutionrelative:views\\orderitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T22:01:16.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItemResults .cshtml",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\OrderItemResults .cshtml",
+              "RelativeDocumentMoniker": "Views\\Search\\OrderItemResults .cshtml",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\OrderItemResults .cshtml",
+              "RelativeToolTip": "Views\\Search\\OrderItemResults .cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:59:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\OrderResults.cshtml",
+              "RelativeDocumentMoniker": "Views\\Search\\OrderResults.cshtml",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\OrderResults.cshtml",
+              "RelativeToolTip": "Views\\Search\\OrderResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:54:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\ProductResults.cshtml",
+              "RelativeDocumentMoniker": "Views\\Search\\ProductResults.cshtml",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\ProductResults.cshtml",
+              "RelativeToolTip": "Views\\Search\\ProductResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:48:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:10:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "Views\\Search\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:09:26.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:18:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T18:54:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\OrderItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MajorBones\\OneDrive\\Desktop\\TrueNetFinalProject\\Views\\OrderItem\\Index.cshtml",
+              "RelativeToolTip": "Views\\OrderItem\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T18:13:13.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
